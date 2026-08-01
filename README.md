@@ -5,7 +5,7 @@ Second-year Computer Science student with a strong interest in robotics and its 
 <!--Off-clock: My girl, Pepper 🐾, a book with coffee/a fun tea, and staring at clouds longer than I should.
 
 ### My Current Rank in Uganda
-[![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraprecious)
+[![committers.top badge](https://user-badge.committers.top/uganda/abangiraprecious.svg)](https://user-badge.committers.top/uganda/abangiraprecious)-->
 
 ### 🛠️ Tech Stack
 
